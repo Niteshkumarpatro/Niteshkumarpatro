@@ -1,4 +1,25 @@
 ## Hi there 👋
+## 🚀 Skills
+
+### Frontend
+- HTML5
+- CSS3
+- Tailwind CSS
+- JavaScript (ES6)
+- React
+
+### Backend (Learning)
+- Node.js
+- Express.js
+- MongoDB
+
+### Programming Basics
+- Java (Basic)
+- C Programming (Basic)
+
+### Tools
+- Git & GitHub
+- VS Code
 
 <!--
 **Niteshkumarpatro/Niteshkumarpatro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
