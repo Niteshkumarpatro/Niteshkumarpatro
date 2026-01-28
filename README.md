@@ -1,25 +1,55 @@
-## Hi there 👋
+## Hi, I'm Nitesh Kumar Patro 👋
+
+Frontend Developer with hands-on experience building responsive and user-friendly web applications using **React, JavaScript (ES6), HTML5, CSS3, and Tailwind CSS**.
+
+I enjoy converting UI designs into clean, reusable components and continuously improving my problem-solving skills. Currently learning backend development with **Node.js, Express, and MongoDB** to grow toward a full-stack role.
+
+🎯 Actively looking for **Frontend Developer (Fresher / Junior)** opportunities.
+
+---
+
 ## 🚀 Skills
 
 ### Frontend
-- HTML5
-- CSS3
-- Tailwind CSS
-- JavaScript (ES6)
-- React
+- HTML5  
+- CSS3  
+- Tailwind CSS  
+- JavaScript (ES6+)  
+- React  
 
-### Backend (Learning)
-- Node.js
-- Express.js
-- MongoDB
-
-### Programming Basics
-- Java (Basic)
-- C Programming (Basic)
+### Backend (Basic)
+- Node.js  
+- Express.js  
+- MongoDB  
 
 ### Tools
-- Git & GitHub
-- VS Code
+- Git & GitHub  
+- VS Code  
+
+---
+
+## 📌 Projects
+
+### 🎮 Tic Tac Toe Game (React)
+A simple interactive Tic Tac Toe game built using React with clean component structure.
+
+**Tech Stack:** React, JavaScript, CSS  
+👉 Repo: https://github.com/Niteshkumarpatro/tic-tac-toe-react
+
+*(More projects coming soon 🚧)*
+
+---
+
+## 📊 GitHub Stats
+- Actively improving projects
+- Regular practice with Git & GitHub
+- Focused on writing clean and readable code
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/nitesh-kumar-patro-aa987b251/
+
 
 <!--
 **Niteshkumarpatro/Niteshkumarpatro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
