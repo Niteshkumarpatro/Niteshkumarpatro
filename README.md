@@ -36,11 +36,12 @@ A simple interactive Tic Tac Toe game built using React with clean component str
 [**Tech Stack:** React, JavaScript, CSS  
 👉 Repo: https://github.com/Niteshkumarpatro/tic-tac-toe-react]
 
-🎯 Hangman Game (React)
+### 🎮 Hangman Game (React)
 
 A simple Hangman-style game UI built using React, focusing on state management, component-based structure, and interactive letter selection.
+
 [**Tech Stack:** React, JavaScript, CSS  
-👉 Repo: https://github.com/Niteshkumarpatro/hangman-react**]
+👉 Repo: https://github.com/Niteshkumarpatro/hangman-react]
 
 *(More projects coming soon 🚧)*
 
