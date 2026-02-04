@@ -33,8 +33,14 @@ I enjoy converting UI designs into clean, reusable components and continuously i
 ### 🎮 Tic Tac Toe Game (React)
 A simple interactive Tic Tac Toe game built using React with clean component structure.
 
-**Tech Stack:** React, JavaScript, CSS  
-👉 Repo: https://github.com/Niteshkumarpatro/tic-tac-toe-react
+[**Tech Stack:** React, JavaScript, CSS  
+👉 Repo: https://github.com/Niteshkumarpatro/tic-tac-toe-react]
+
+🎯 Hangman Game (React)
+
+A simple Hangman-style game UI built using React, focusing on state management, component-based structure, and interactive letter selection.
+[**Tech Stack:** React, JavaScript, CSS  
+👉 Repo: https://github.com/Niteshkumarpatro/hangman-react**]
 
 *(More projects coming soon 🚧)*
 
